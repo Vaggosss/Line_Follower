@@ -15,16 +15,12 @@ This project was developed as part of our academic semester's **final exam**. As
 ### 1. Raspberry Pi Pico (RP2040)
 We used the **Pi Maker RP2040 Pico** as the central controller to manage sensors and motors.
 
-![RP2040 Board](![Uploading image.png…]()
-)
 
 ---
 
 ### 2. IR Sensors
 Two **infrared sensors** detect the presence of a black line on a white surface to guide the robot’s path.
 
-![IR Sensor Module](![image](https://github.com/user-attachments/assets/3dfb93f4-25fd-44ac-922b-34bfa28b91d6)
-)
 
 ---
 
@@ -37,7 +33,7 @@ The robot chassis kit included:
 - Wires and connecting cables
 - Acrylic chassis base
 
-![Chassis Kit](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpW6mSkHLCURwXADazxNjnEXM3KY7yxeiK4w&s)
+
 
 ---
 
