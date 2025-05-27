@@ -134,7 +134,7 @@ These challenges helped us develop better problem-solving, collaboration, and ha
 | Name         | Role / Responsibility         |
 |--------------|-------------------------------|
 | **Dimitris Iatroy** | Hardware engineer              |
-| **[Name 2]** | [Your Role Here]              |
+| **Evangelos Koupanis** | Software Engineer           |
 | **[Name 3]** | [Your Role Here]              |
 | **[Name 4]** | [Your Role Here]              |
 
