@@ -4,9 +4,9 @@ Welcome to our repository!
 
 This project was developed as part of our academic semester's **final exam**. As a team, we created a small **line-following robot** using:
 
-- 🧠 **Pi Maker RP2040 Pico** microcontroller
-- 👀 **Infrared (IR) sensors** for black line detection
-- 🛠️ A robot **chassis kit** that includes motors, wheels, screws, cables, and a battery case
+-  **Pi Maker RP2040 Pico** microcontroller
+-  **Infrared (IR) sensors** for black line detection
+-  A robot **chassis kit** that includes motors, wheels, screws, cables, and a battery case
 
 ---
 
@@ -133,7 +133,7 @@ These challenges helped us develop better problem-solving, collaboration, and ha
 
 | Name         | Role / Responsibility         |
 |--------------|-------------------------------|
-| **[Name 1]** | [Your Role Here]              |
+| **Dimitris Iatroy** | Hardware engineer              |
 | **[Name 2]** | [Your Role Here]              |
 | **[Name 3]** | [Your Role Here]              |
 | **[Name 4]** | [Your Role Here]              |
