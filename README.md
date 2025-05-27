@@ -138,7 +138,6 @@ These challenges helped us develop better problem-solving, collaboration, and ha
 | **[Name 3]** | [Your Role Here]              |
 | **[Name 4]** | [Your Role Here]              |
 
-Feel free to update this table with each member's actual contribution and responsibilities.
 
 ---
 
